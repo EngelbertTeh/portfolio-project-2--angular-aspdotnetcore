@@ -56,6 +56,7 @@ To create migration file, where ORM maps the object from your source code and cr
 2. A folder will appear called "Migration"
 3. To use the migration files to update your database, key into the Package Manager Console
      Update-Database
+4. Then only start dotnet server
     
 
 Documentation on migration:
