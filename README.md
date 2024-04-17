@@ -27,9 +27,10 @@ Bootstrapped UI: PRIMENG
       ng serve
 
 2. To start back end server
-  - change directory into the inner file
-       cd BackEndAPI-DotNet8
+ 
   - Open Visual Studio (preferably), or VS Code
+  - Change directory into the inner file
+       cd BackEndAPI-DotNet8
   - In CLI, type
       dotnet run
 
